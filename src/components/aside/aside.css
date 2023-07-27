@@ -1,0 +1,9 @@
+.aside {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 375px;
+  color: white;
+  background-color: rgb(41, 249, 58);
+}
